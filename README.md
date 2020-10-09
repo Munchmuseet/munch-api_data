@@ -1,5 +1,5 @@
 # munch-api_data
-This repository contains the data needed to build the [munch-api](https://github.com/Munchmuseet/munch-api).
+This repository contains the data needed to build the [munch-api](https://github.com/Munchmuseet/munch-api). To use, please get a copy of the `_data` folder and put it in the `munch-api_master` folder after having cloned [munch-api](https://github.com/Munchmuseet/munch-api) to disk.
 
 ## About Copyright and Usage
 If you wish to use any of the Munchmuseet’s material in a publication (in either printed or digital form), we advise you to first read this page and then contact us. In general you are free to use material from this repository for private, non-commercial purposes. All other use should be agreed upon in writing with Munchmuseet.
