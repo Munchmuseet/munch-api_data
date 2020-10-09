@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI PUBLIC "-//TEI P5 MunchTEI//DTD TEI P5 Unified for Edvard Munch's Texts//EN" "file:/F:/Prosjekter/Prosjekter, interne/71200010 Munchs tekster/Transkripsjoner/MunchTEI.dtd" >
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0" xml:id="No-MM_N0010-01">
+<teiHeader>
+ <fileDesc>
+<titleStmt>
+<title>No-MM_N0010-01.jpg</title>
+</titleStmt>
+
+<publicationStmt>
+<p></p>
+</publicationStmt>
+<sourceDesc>
+<p>2704 x 4064</p>
+</sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+
+
+ 
+  <tagsDecl xml:id="imtAnnotationCategories"><rendition xml:id="transcription"><label>Contains the transcribed and TEI P5 encoded text of the objects</label><code rend="rectangle" lang="text/css">color: #ff0000</code></rendition><rendition xml:id="commentary"><label>Kommentarer</label><code rend="rectangle" lang="text/css">color: #00ff00</code></rendition><rendition xml:id="philologicalNotes"><label>Edisjonsfilologiske noter</label><code rend="rectangle" lang="text/css">color: #0000ff</code></rendition><rendition xml:id="textForSearch"><desc>transcriptional</desc><label>Søkbar tekst</label><code rend="rectangle" lang="text/css">color: #000000</code></rendition></tagsDecl><appInfo>
+     <application ident="ImageMarkupTool01" version="1.8.1.2" notAfter="2009-03-13T14:48:20">
+     <label>
+     Image Markup Tool</label><desc>
+     Tool for annotating images using TEI</desc><ref type="appURI" target="http://www.tapor.uvic.ca/~mholmes/image_markup/">
+     </ref><ptr target="#imtAnnotatedImage"></ptr><ptr target="#imtImageAnnotations"></ptr><ptr target="#imtAnnotationCategories"></ptr></application>
+     
+     
+     </appInfo></encodingDesc>
+</teiHeader>
+ <facsimile xml:id="imtAnnotatedImage"><surface><graphic url="No-MM_N0010-01.jpg" width="2704px" height="4064px"></graphic><zone xml:id="imtArea_0" rendition="transcription" ulx="292" uly="360" lrx="2448" lry="3672" rend="visible"></zone></surface></facsimile>
+ <text>
+  <body>
+   <div xml:id="imtImageAnnotations"><div corresp="#imtArea_0" type="imtAnnotation"><head>&#x00A0;</head><div>
+    <p>Jeg var atter på mit værelse &#x2013;</p> 
+    <p>Jeg sad ved ovne<del rend="overwritten">t</del>n og varmet mig 
+     <lb/>jeg frøs &#x2013; det begyndte at mørkne 
+    <lb/><del rend="overstrike">og ilden i ovnen</del> det lyste rødt 
+     <lb/>fra ovnen. &#x2013; Gråt var det ude <del rend="overstrike">det</del> på
+    <lb/>taget <del rend="overstrike">lå</del> udenfor lå der klatvis tyndt 
+    <lb/><del rend="overwritten">s</del>med sne.</p>
+    <p>Det mindet mig lidt om min 
+     <lb/>barndom &#x2013; der i <placeName key="pl118">Slotsgaden</placeName>. <del rend="overstrike">jeg</del>
+     <lb/><unclear><del rend="overstrike">her da</del></unclear> i julen &#x2013; når juletræet 
+    <lb/>skulde pyntes<seg type="interpunctionalSpace"/>min far i sorte 
+     <lb/>klæder og festlig &#x2013; hvor han 
+    <lb/>kunde spænde os <del rend="overstrike">og</del> i forventning.</p>
+    <p><del rend="overstrike">Her</del> Det banket på det 
+    <lb/>var <persName key="pe188">Hertzberg</persName> han vilde 
+    <lb/>ha mig ud for at spise.</p>
+    <p>Vi satte os på vore gamle 
+     <lb/>pladser &#x2013; der <del rend="overstrike">var de</del> sad de 
+     <lb/>samme Personer &#x2013; og <ref type="lemma" target="co78">Jean</ref> 
+    <lb/>kom farende som vanligt med</p>
+    
+   </div></div></div>
+  </body>
+ </text>
+</TEI>

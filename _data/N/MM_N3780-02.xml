@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI PUBLIC "-//TEI P5 MunchTEI//DTD TEI P5 Unified for Edvard Munch's Texts//EN" "file:/F:/Prosjekter/Prosjekter, interne/71200010 Munchs tekster/Transkripsjoner/MunchTEI.dtd" >
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0" xml:id="No-MM_N3780-02">
+<teiHeader>
+ <fileDesc>
+<titleStmt>
+<title>No-MM_N3780-02.jpg</title>
+</titleStmt>
+
+<publicationStmt>
+<p></p>
+</publicationStmt>
+<sourceDesc>
+<p>2704 x 4064</p>
+</sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+
+
+ 
+  <tagsDecl xml:id="imtAnnotationCategories"><rendition xml:id="transcription"><label>Contains the transcribed and TEI P5 encoded text of the objects</label><code rend="rectangle" lang="text/css">color: #ff0000</code></rendition><rendition xml:id="commentary"><label>Kommentarer</label><code rend="rectangle" lang="text/css">color: #00ff00</code></rendition><rendition xml:id="philologicalNotes"><label>Edisjonsfilologiske noter</label><code rend="rectangle" lang="text/css">color: #0000ff</code></rendition><rendition xml:id="textForSearch"><label>Søkbar tekst</label><code rend="rectangle" lang="text/css">color: #000000</code></rendition></tagsDecl><appInfo>
+     <application ident="ImageMarkupTool01" version="1.8.1.3" notAfter="2009-09-18T11:48:33">
+     <label>
+     Image Markup Tool</label><desc>
+     Tool for annotating images using TEI</desc><ref type="appURI" target="http://www.tapor.uvic.ca/~mholmes/image_markup/">
+     </ref><ptr target="#imtAnnotatedImage"></ptr><ptr target="#imtImageAnnotations"></ptr><ptr target="#imtAnnotationCategories"></ptr></application>
+     
+     
+     </appInfo></encodingDesc>
+</teiHeader>
+ <facsimile xml:id="imtAnnotatedImage"><surface><graphic url="No-MM_N3780-02.jpg" width="2704px" height="4064px"></graphic><zone xml:id="imtArea_0" rendition="transcription" ulx="-51" uly="223" lrx="2458" lry="3841" rend="visible"></zone></surface></facsimile>
+ <text>
+  <body>
+   <div xml:id="imtImageAnnotations"><div corresp="#imtArea_0" type="imtAnnotation"><head>&#x00A0;</head><div>
+   <div type="letterpart"><p rend="noIndent">at jeg osså greier &#x00AB;Jens Vang&#x00BB; 
+    <lb/>Branchen</p> 
+    <p rend="extraAir"><del rend="overwritten"><gap/></del>Du kan fortælle at
+    <lb/><gap reason="writing"/> Møblerne fra <orgName key="i400">Husfliden</orgName> 
+    <lb/>virker brilliant &#x2013;</p> 
+    <p>Jeg sidder atter på 
+    <lb/>den ensomme Cafe &#x2013;</p>
+    <closer><salute>Hjertelig Hilsen</salute>
+    <signed>Din <persName key="pe627">Edv Munch</persName></signed></closer></div>
+    <div type="postscript"><p><del rend="overwritten"><gap/></del>Reiser snart til 
+     <lb/><del rend="overwritten">T<gap/></del><placeName key="pl38">Stockholm</placeName></p></div>    
+   </div></div></div>
+  </body>
+ </text>
+</TEI>

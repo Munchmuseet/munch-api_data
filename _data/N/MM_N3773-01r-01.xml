@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../tei_xinclude.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.2" xml:id="No-MM_N3773-01r-01">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>No-MM_N3773-01r-01.jpg</title>
+   </titleStmt>
+   <publicationStmt><p/></publicationStmt>
+   <sourceDesc><bibl/></sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <facsimile xml:id="image_1"><graphic url="No-MM_N3773-01r-01.jpg"/></facsimile>
+ <text>
+  <body>
+   <div xml:id="transcr_1">
+    <opener><dateline><placeName key="pl1484">Horungerne</placeName></dateline>
+     <salute>Dear <persName key="pe200">Halvard</persName>! <add place="inline">My dear Hal</add></salute></opener>
+    <p>Thank you for your letter. Yesterday
+     <lb/>sitting in my room I heard two ointments
+     <lb/>of burns. Consequently there must be a great
+     <lb/>fire, for else there is not used to do it here in
+     <lb/>town. I therefore hastened out and having ar-
+     <lb/>rived to the place of the fire &#x2013; <placeName key="pl1485">Balkeløkken</placeName>,
+     <lb/>that is one of the <del rend="overwritten">most poor</del><add place="inline">poorest</add> parts of the town
+     <lb/>&#x2013; <del rend="overwritten">an ocean of fire</del><add place="inline">was there like</add> an ocean of fire before me.
+     <lb/>Almost all of the houses in Balkeløkken are
+     <lb/>made of wood and they had become very
+     <lb/>dry by the sun that now in several days
+     <lb/>has been <del rend="overstrike">ve</del> extraordiarily hot. In consequnc
+     <lb/>of this the fire spread with <del rend="overwritten"><unclear>exceed</unclear></del><add place="inline">incredible</add> speed.
+     <lb/>Within about two hours were <del rend="overwritten">3</del><del rend="overwritten"><add place="inline">4</add></del><add place="inline">5</add>0&#x2013;<del rend="overwritten">4</del><add place="inline">6</add>0 houses
+     <lb/>in fire. The fire began at four o&#x2019;clock in the
+     <lb/>afternoon and at seven o&#x2019;clock all of them
+     <lb/>were burnt <del rend="overwritten">t</del><add place="inline">d</add>own <add place="supralinear">to</add> the ground. It was wery remark-
+     <lb/>able to see <del rend="overstrike">hvo</del> how cold-blooded the firem<del rend="overwritten">a</del><add place="inline">e</add>n
+     <lb/>were though the hot around them. The entered</p>
+   </div>
+  </body>
+ </text>
+</TEI>

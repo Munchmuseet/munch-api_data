@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../tei_xinclude.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.2" xml:id="No-MM_N3757-01">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>No-MM_N3757-01.jpg</title>
+   </titleStmt>
+   <publicationStmt><p/></publicationStmt>
+   <sourceDesc><bibl/></sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <facsimile xml:id="image_1"><graphic url="No-MM_N3757-01.jpg"/></facsimile>
+ <text>
+  <body>
+   <div xml:id="transcr_1">
+    <p>Jeg antog at tegning og arbeid kunne været færdig på en 8 dager
+     <lb/>Selvfølgelig når anbudet var godkjendt
+     <lb/>Et anbud kommer da ikke efter at husets byging er bestemt
+     <lb/><del rend="overstrike">all</del> <del rend="overwritten">I</del><add place="inline">S</add>om i min redegjørelse forklaret <del rend="overstrike">blev</del> gik
+     <lb/>jeg med på nogle små forberedende arbeider &#x2013; der var nødvendig
+     <lb/>til anbudet &#x2013; Det blev stadig lovet mig at anbudet skulde 
+     <lb/>komme derfor drog tiden ud &#x2013; Jeg så nogle folk slang der men
+     <lb/>ventet den lovede konferance der hver dag skulde komme dagen efter
+     <lb/>Da det drog ud sa jeg til en af arbeiderne &#x2013; Anbudet er ikke afgjort <unclear reason="writing">som</unclear> <unclear reason="writing">hold<gap reason="writing"/></unclear>
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

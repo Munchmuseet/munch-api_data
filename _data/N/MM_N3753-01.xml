@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../tei_xinclude.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.2" xml:id="No-MM_N3753-01">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>No-MM_N3753-01.jpg</title>
+   </titleStmt>
+   <publicationStmt><p/></publicationStmt>
+   <sourceDesc><bibl/></sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <facsimile xml:id="image_1"><graphic url="No-MM_N3753-01.jpg"/></facsimile>
+ <text>
+  <body>
+   <div xml:id="transcr_1">
+    <opener><dateline><placeName key="pl2">Skøien</placeName> den <date when="1918-04-27">27de april 1918</date>.</dateline>
+     <salute>Til
+      <lb/><orgName key="i299">Kristiania Opdagelsespoliti</orgName>.
+      <lb/><hi rend="underlined">Hersteds.</hi></salute></opener>
+    <p>Vaaren 1917 overtog <del rend="overwritten">k</del><add place="inline" hand="pe627" type="handwritten">h</add>r. <persName key="pe2790">K. Braarud</persName>, Herslebs gt. 7. at skaffe
+     <lb/>mig 10 favne ved, at levere saasnart den kunde fragtes av jern<del rend="overwritten">v</del><add place="inline">b</add>anen, idet
+     <lb/>han opgav at veden, som han eiede, var framkjørt til og henlaa ved en
+     <lb/>utenbys jernbanestation.</p>
+    <p>Prisen for disse 10 favne ved fik han utbetalt med <hi rend="underlined">kr. 700,oo</hi></p>
+    <p>Veden har han endnu ikke &#x2013; et aars tid efter &#x2013; leveret, like-
+     <lb/>som han trods paakrav ikke har betalt beløpet tilbake.</p>
+    <p>Jeg maa <del rend="overwritten">h</del><add place="inline">g</add>aa ut fra, at her foreligger et forsøk paa bedrageri,
+     <lb/>idet hr. Braarud neppe har eiet nogen ved, og maa jeg derfor paastaa ham
+     <lb/>tiltalt og straffet.</p>
+    <p>Jeg vedlægger:
+     <lb/>1. Avskrift av skrivelse fra advokaterne <orgName key="i1096">Heyerdahl &amp; Knagenhjelm</orgName> til
+     <lb/>Braarud av 12&#x002F;2 1917.
+     <lb/>2. Skrivelse fra Braarud til advokaterne Heyerdahl &amp; Knagenhjelm av 13&#x002F;<del rend="overwritten">æ</del><add place="inline">1</add>2 
+     <lb/>191<del rend="overwritten">8</del><add place="inline">7</add>.
+     <lb/>3. Avskrift av skrivelse fra Advokaterne Heyerdahl &amp; Knag<del rend="overwritten">n</del><add place="inline">e</add>nhjelm til 
+     <lb/>Braarud av 17&#x002F;12 1917.</p>
+    <closer><salute>Ærbødigst.</salute>
+     <signed><seg type="handwritten"><persName key="pe627">Edvard Munch</persName></seg></signed></closer>
+   </div>
+  </body>
+ </text>
+</TEI>

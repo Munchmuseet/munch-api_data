@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI PUBLIC "-//TEI P5 MunchTEI//DTD TEI P5 Unified for Edvard Munch's Texts//EN" "file:/F:/Prosjekter/Prosjekter, interne/71200010 Munchs tekster/Transkripsjoner/MunchTEI.dtd" >
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0" xml:id="No-MM_N3775-01">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>No-MM_N3775-01.jpg</title>
+   </titleStmt>
+   
+   <publicationStmt>
+    <p></p>
+   </publicationStmt>
+   <sourceDesc>
+    <p>4064 x 2704</p>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   
+   
+   
+   <tagsDecl xml:id="imtAnnotationCategories"><rendition xml:id="transcription"><label>Contains the transcribed and TEI P5 encoded text of the objects</label><code rend="rectangle" lang="text/css">color: #ff0000</code></rendition><rendition xml:id="commentary"><label>Kommentarer</label><code rend="rectangle" lang="text/css">color: #00ff00</code></rendition><rendition xml:id="philologicalNotes"><label>Edisjonsfilologiske noter</label><code rend="rectangle" lang="text/css">color: #0000ff</code></rendition><rendition xml:id="textForSearch"><label>Søkbar tekst</label><code rend="rectangle" lang="text/css">color: #000000</code></rendition></tagsDecl><appInfo>
+    <application ident="ImageMarkupTool01" version="1.8.1.4" notAfter="2010-03-09T09:48:34">
+     <label>
+      Image Markup Tool</label><desc>
+       Tool for annotating images using TEI</desc><ref type="appURI" target="http://www.tapor.uvic.ca/~mholmes/image_markup/">
+       </ref><ptr target="#imtAnnotatedImage"></ptr><ptr target="#imtImageAnnotations"></ptr><ptr target="#imtAnnotationCategories"></ptr></application>
+    
+    
+   </appInfo></encodingDesc>
+ </teiHeader>
+ <facsimile xml:id="imtAnnotatedImage"><surface><graphic url="No-MM_N3775-01.jpg" width="4064px" height="2704px"></graphic><zone xml:id="imtArea_0" rendition="transcription" ulx="840" uly="190" lrx="3098" lry="1733" rend="visible"></zone></surface></facsimile>
+ <text>
+  <body>
+   <div xml:id="imtImageAnnotations"><div corresp="#imtArea_0" type="imtAnnotation"><head>&#x00A0;</head><div>
+    <opener rend="extraAir"><address rend="emptyPartOfPage" n="recipient"><addrLine><persName key="pe392">Ravensberg</persName></addrLine>
+     <addrLine><placeName key="pl176">Stensgd I 3</placeName></addrLine></address>
+     <dateline><placeName key="pl20">Kristiania</placeName> 5035 I0 II.I5 fm <date when="1903-09-29">29/9 03</date></dateline></opener>
+    <p><persName key="pe627">Munch</persName> og <persName key="pe139">Gierløff</persName> indbyder til afskedsmiddag</p>
+   </div></div></div>
+  </body>
+ </text>
+</TEI>

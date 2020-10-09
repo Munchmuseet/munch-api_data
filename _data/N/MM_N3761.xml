@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../tei_xinclude.rng"?>
+<?xml-stylesheet type="text/xsl" href="file:/F:/Prosjekter/Prosjekter, interne/71200010 Munchs tekster/Transkripsjoner/eMunch_view_corpus.xsl"?>
+<teiCorpus version="5.2" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>MM N 3761. Brevutkast</title>
+            </titleStmt>
+            <publicationStmt><p/></publicationStmt>
+            <sourceDesc><bibl xml:id="No-MM_N3761"/></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="no"/>       
+            </langUsage>
+            <handNotes>
+                <handNote xml:id="pe627" medium="pen_black"></handNote>
+            </handNotes>
+        </profileDesc>
+        <revisionDesc>
+            <change xml:id="HB" who="#HB" when="2018-08-15">Kodet samlefil og enkeltsidefiler i Oxygen.</change>
+            <change xml:id="IHS" who="#IHS" when="2018-08-27">Sett på koding og gjort enkelte endringer. Lagt inn arbeidsnote.</change>
+        </revisionDesc>
+    </teiHeader>
+    <include xmlns="http://www.w3.org/2001/XInclude" href="No-MM_N3761-01.xml" xpointer="No-MM_N3761-01">
+        <fallback>FIXME: MISSING XINCLUDE CONTENT</fallback>
+    </include>
+</teiCorpus>

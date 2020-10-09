@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI PUBLIC "-//TEI P5 MunchTEI//DTD TEI P5 Unified for Edvard Munch's Texts//EN" "file:/F:/Prosjekter/Prosjekter, interne/71200010 Munchs tekster/Transkripsjoner/MunchTEI.dtd" >
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0" xml:id="No-MM_N0001-02">
+<teiHeader>
+ <fileDesc>
+<titleStmt>
+<title>No-MM_N0001-02.jpg</title>
+</titleStmt>
+
+<publicationStmt>
+<p></p>
+</publicationStmt>
+<sourceDesc>
+<p>2704 x 4064</p>
+</sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+
+
+ 
+  <tagsDecl xml:id="imtAnnotationCategories"><rendition xml:id="transcription"><label>Contains the transcribed and TEI P5 encoded text of the objects</label><code rend="rectangle" lang="text/css">color: #ff0000</code></rendition><rendition xml:id="commentary"><label>Kommentarer</label><code rend="rectangle" lang="text/css">color: #00ff00</code></rendition><rendition xml:id="philologicalNotes"><label>Edisjonsfilologiske noter</label><code rend="rectangle" lang="text/css">color: #0000ff</code></rendition><rendition xml:id="textForSearch"><desc>transcriptional</desc><label>Søkbar tekst</label><code rend="rectangle" lang="text/css">color: #000000</code></rendition></tagsDecl><appInfo>
+     <application ident="ImageMarkupTool01" version="1.8.1.2" notAfter="2009-03-12T16:36:25">
+     <label>
+     Image Markup Tool</label><desc>
+     Tool for annotating images using TEI</desc><ref type="appURI" target="http://www.tapor.uvic.ca/~mholmes/image_markup/">
+     </ref><ptr target="#imtAnnotatedImage"></ptr><ptr target="#imtImageAnnotations"></ptr><ptr target="#imtAnnotationCategories"></ptr></application>
+     
+     
+     </appInfo></encodingDesc>
+</teiHeader>
+ <facsimile xml:id="imtAnnotatedImage"><surface><graphic url="No-MM_N0001-02.jpg" width="2704px" height="4064px"></graphic><zone xml:id="imtArea_0" rendition="transcription" ulx="156" uly="212" lrx="2476" lry="3896" rend="visible"></zone></surface></facsimile>
+ <text>
+  <body>
+   <div xml:id="imtImageAnnotations"><div corresp="#imtArea_0" type="imtAnnotation"><head>&#x00A0;</head><div>
+    <p rend="noIndent">at få tiden til at gå &#x2013; med 
+     <lb/>første tog &#x2013; reiser jeg &#x2013;1ste klasse
+     <lb/>&#x2013; endnu 4 timer &#x2013;</p>
+    <p>Da det var så vidt lyst <del rend="overwritten"><gap/></del>
+     <lb/>klædde jeg på mig &#x2013; <del rend="overstrike">Jeg g</del> Hvor alting 
+     <lb/>så anderledes &#x2013; ud &#x2013; hvor jeg <del rend="overstrike">var</del> 
+     <lb/>følte mig stærk &#x2013;<del rend="overstrike"> hvor</del> <del rend="overwritten">d</del>jeg var ikke
+    <lb/>længer den nervøse fyren som plaget 
+    <lb/>sig atter og atter med disse sygelige 
+     <lb/>erindringene &#x2013; det var som blåst bort &#x2013;</p>
+    <p><del rend="overwritten">Han</del>Jeg hadde ikke set gaden slig 
+     <lb/>som nu &#x2013;</p>
+    <p><del rend="overstrike">Han</del> Jeg gik en lang tur &#x2013; <del rend="overwritten">og</del>forat 
+     <lb/>dræbe tiden &#x2013; Endeli satte jeg  mig 
+     <lb/><del rend="overstrike">i kuppen &#x2013; der</del> i kuppeen <del rend="overstrike">det v</del> 
+    <lb/>der var en gammel mand, som så 
+     <lb/>dødsyg ud &#x2013; et <del rend="overwritten">e</del>ægtepar og en ung mand &#x2013; 
+     <lb/><del rend="overstrike">han s</del> Alle skulde til <placeName key="pl108">Monte Carlo</placeName> &#x2013; 
+     <lb/>det var <placeName key="pl108">Monte Carlo</placeName> expresstoget &#x2013;
+    <lb/>Den unge fyren <del rend="overstrike">holdt</del> <add place="supralinear">studerte</add> en spilletabel i
+     <lb/>hånden &#x2013; jeg <unclear rend="writing">lo</unclear> jeg var så tryg.</p>	
+    <p>&#x2013; <del rend="overstrike">I Spis Jeg gik op stod</del> foyeren 
+     <lb/><del rend="overstrike">til Spillesalen</del>&#x2013; Dørene var endnu 
+     <lb/>ikke åbnet <add place="supralinear">til spillesalen</add> &#x2013; en hel del stod og ventet
+     <lb/>i kø &#x2013; Da døren ble åbnet styrtet 
+    <lb/>man in forat opta plads &#x2013;</p>
+    </div></div></div>
+  </body>
+ </text>
+</TEI>

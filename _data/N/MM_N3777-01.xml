@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI PUBLIC "-//TEI P5 MunchTEI//DTD TEI P5 Unified for Edvard Munch's Texts//EN" "file:/F:/Prosjekter/Prosjekter, interne/71200010 Munchs tekster/Transkripsjoner/MunchTEI.dtd" >
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0" xml:id="No-MM_N2804-01-03">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>No-MM_N2804-01-03.jpg</title>
+   </titleStmt>
+   
+   <publicationStmt>
+    <p></p>
+   </publicationStmt>
+   <sourceDesc>
+    <p>2704 x 4064</p>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   
+   
+   
+   <tagsDecl xml:id="imtAnnotationCategories"><rendition xml:id="transcription"><label>Contains the transcribed and TEI P5 encoded text of the objects</label><code rend="rectangle" lang="text/css">color: #ff0000</code></rendition><rendition xml:id="commentary"><label>Kommentarer</label><code rend="rectangle" lang="text/css">color: #00ff00</code></rendition><rendition xml:id="philologicalNotes"><label>Edisjonsfilologiske noter</label><code rend="rectangle" lang="text/css">color: #0000ff</code></rendition><rendition xml:id="textForSearch"><label>Søkbar tekst</label><code rend="rectangle" lang="text/css">color: #000000</code></rendition></tagsDecl><appInfo>
+    <application ident="ImageMarkupTool01" version="1.8.1.3" notAfter="2009-09-14T09:45:49">
+     <label>
+      Image Markup Tool</label><desc>
+       Tool for annotating images using TEI</desc><ref type="appURI" target="http://www.tapor.uvic.ca/~mholmes/image_markup/">
+       </ref><ptr target="#imtAnnotatedImage"></ptr><ptr target="#imtImageAnnotations"></ptr><ptr target="#imtAnnotationCategories"></ptr></application>
+    
+    
+   </appInfo></encodingDesc>
+ </teiHeader>
+ <facsimile xml:id="imtAnnotatedImage"><surface><graphic url="No-MM_N2804-01-03.jpg" width="2704px" height="4064px"></graphic><zone xml:id="imtArea_0" rendition="transcription" ulx="84" uly="704" lrx="2533" lry="3833" rend="visible"></zone></surface></facsimile>
+ <text>
+  <body>
+   <div xml:id="imtImageAnnotations"><div corresp="#imtArea_0" type="imtAnnotation"><head>&#x00A0;</head><div>
+    <opener rend="extraAir"><salute><handShift new="EM2"/>Kjære <persName key="pe392">Ludvig</persName>!</salute></opener>
+    <p>Jeg kom<del rend="overstrike">mer</del> desværre 
+     <lb/>eller heldigvis ikke 
+     <lb/>til Tandlægen &#x2013; Det
+     <lb/>viste sig at Hullet 
+     <lb/>blot var e<del rend="overwritten">n</del>t udfaldet 
+     <lb/><del rend="overwritten">s</del>Stykke &#x2013; Jeg blev af
+     <lb/>hed Vin beruset i 
+     <lb/>Staden og kom<del rend="overstrike">m</del> melan-
+     <lb/>kolsk tilbage &#x2013;</p>
+    <p><persName key="pe1192">Petra</persName> taler af og til 
+     <lb/>om Gud i tiden og undrer 
+     <lb/>sig over at ikke nye 
+     <lb/>Guder kommer</p>
+   </div></div></div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../tei_xinclude.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.2" xml:id="No-MM_N3773-01v-01">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>No-MM_N3773-01v-01.jpg</title>
+   </titleStmt>
+   <publicationStmt><p/></publicationStmt>
+   <sourceDesc><bibl/></sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <facsimile xml:id="image_2"><graphic url="No-MM_N3773-01v-01.jpg"/></facsimile>
+ <text>
+  <body>
+   <div xml:id="transcr_2">
+    <p rend="noIndent">burning houses and went straight through
+     <lb/>live coals, hurling down and they often ran
+     <lb/>the risk of being burried af them. It no<unclear reason="writing">t</unclear>
+     <lb/>finished without bad luck. One of them
+     <lb/><del rend="overwritten">t</del><add place="inline">g</add>ot his h<del rend="overwritten">o</del><add place="inline">e</add>ad burnt and it is said that
+     <lb/>another was consumed by the fire. A boy
+     <lb/>scorched, with respect to say, his backside
+     <lb/>and others got more or lesser scars. If <del rend="overwritten">there</del><add place="inline">all</add>
+     <lb/><del rend="overwritten">was a <unclear>little</unclear> <gap/> of a cat</del><add place="inline">men dreaded the fire so</add> there was yet a
+     <lb/>being who made the contrary. It was a cat.</p>
+   </div>
+  </body>
+ </text>
+</TEI>

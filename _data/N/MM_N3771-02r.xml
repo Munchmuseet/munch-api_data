@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../tei_xinclude.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.2" xml:id="No-MM_N3771-02r">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>No-MM_N3771-02r.jpg</title>
+   </titleStmt>
+   <publicationStmt><p/></publicationStmt>
+   <sourceDesc><bibl/></sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <facsimile xml:id="image_2"><graphic url="No-MM_N3771-02r.jpg"/></facsimile>
+ <text>
+  <body>
+   <div xml:id="transcr_2">
+    <p><address n="recipient"><addrLine>Til</addrLine>
+     <addrLine><hi rend="underlined">Formanden for Trykkeri</hi></addrLine>
+     <addrLine><del rend="overstrike">D</del></addrLine>
+     <addrLine>Den geografiske Opmaaling</addrLine>
+     <addrLine><hi rend="underlined">Kristiania</hi></addrLine></address></p>
+   </div>
+  </body>
+ </text>
+</TEI>

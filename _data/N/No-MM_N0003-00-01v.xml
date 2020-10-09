@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI PUBLIC "-//TEI P5 MunchTEI//DTD TEI P5 Unified for Edvard Munch's Texts//EN" "file:/F:/Prosjekter/Prosjekter, interne/71200010 Munchs tekster/Transkripsjoner/MunchTEI.dtd" >
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0" xml:id="No-MM_N0003-00-01v">
+<teiHeader>
+ <fileDesc>
+<titleStmt>
+<title>No-MM_N0003-00-01v.jpg</title>
+</titleStmt>
+
+<publicationStmt>
+<p></p>
+</publicationStmt>
+<sourceDesc>
+<p>2704 x 4064</p>
+</sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+
+
+ 
+  <tagsDecl xml:id="imtAnnotationCategories"><rendition xml:id="transcription"><label>Contains the transcribed and TEI P5 encoded text of the objects</label><code rend="rectangle" lang="text/css">color: #ff0000</code></rendition><rendition xml:id="commentary"><label>Kommentarer</label><code rend="rectangle" lang="text/css">color: #00ff00</code></rendition><rendition xml:id="philologicalNotes"><label>Edisjonsfilologiske noter</label><code rend="rectangle" lang="text/css">color: #0000ff</code></rendition><rendition xml:id="textForSearch"><desc>transcriptional</desc><label>Søkbar tekst</label><code rend="rectangle" lang="text/css">color: #000000</code></rendition></tagsDecl><appInfo>
+     <application ident="ImageMarkupTool01" version="1.8.1.2" notAfter="2009-03-13T10:55:03">
+     <label>
+     Image Markup Tool</label><desc>
+     Tool for annotating images using TEI</desc><ref type="appURI" target="http://www.tapor.uvic.ca/~mholmes/image_markup/">
+     </ref><ptr target="#imtAnnotatedImage"></ptr><ptr target="#imtImageAnnotations"></ptr><ptr target="#imtAnnotationCategories"></ptr></application>
+     
+     
+     </appInfo></encodingDesc>
+</teiHeader>
+ <facsimile xml:id="imtAnnotatedImage"><surface><graphic url="No-MM_N0003-00-01v.jpg" width="2704px" height="4064px"></graphic><zone xml:id="imtArea_0" rendition="transcription" ulx="256" uly="248" lrx="2436" lry="3848" rend="visible"></zone></surface></facsimile>
+ <text>
+  <body>
+   <div xml:id="imtImageAnnotations"><div corresp="#imtArea_0" type="imtAnnotation"><head>&#x00A0;</head><div>
+    <p rend="noIndent">af brogede parasoller og 
+    <lb/>vårtoiletter.</p>
+    <p>Her går ble<del rend="overwritten">g</del>ke misser &#x2013; stilie 
+    <lb/>pariserin<del rend="overwritten">g</del>der med sine bitte små 
+     <lb/>skjødehunde &#x2013; Pariserlapser med 
+    <lb/>buxer så vide som sække 
+    <lb/>og hulbrystede tæringspatienter 
+    <lb/>fra alle verdens kanter.</p>
+    <p>Havet ligger blåt udover &#x2013; 
+    <lb/>bare en nuance dybere end 
+     <lb/>luften &#x2013; en vidunderlig blå farve 
+     <lb/>luftig som naftha. &#x2013; og ind mod 
+    <lb/>stranden bryder lange dønninger 
+     <lb/>med svære drøn &#x2013;</p>
+    <p><placeName key="pl70">Nizzas</placeName> torv er et eneste 
+     <lb/>stort blomsterbed &#x2013; markblomster 
+    <lb/>og haveblomster. I svære kurve 
+     <lb/>kjøbes de &#x2013; thi prins 
+     <lb/>Karneval<seg type="interpunctionalSpace"/><placeName key="pl70">Nizzas</placeName> glæde &#x2013; kommer 
+     <lb/>om et par dage &#x2013; hans ankomst 
+    <lb/>skal for<del rend="overwritten"><gap/></del>herliges <del rend="overstrike">af en</del> ved den 
+    <lb/>store blomsterbatallie. Han skal
+    <lb/>hilse på de 150 000 fremmede som er 
+    <lb/>kommet til hans by. <del rend="overstrike">Deres <gap/></del><seg type="interpunctionalSpace"/>M.</p>    
+   </div></div></div>
+  </body>
+ </text>
+</TEI>
