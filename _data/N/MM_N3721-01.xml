@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../tei_xinclude.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.2" xml:id="No-MM_N3721-01">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>No-MM_N3721-01.jpg</title>
+   </titleStmt>
+   <publicationStmt><p/></publicationStmt>
+   <sourceDesc><bibl/></sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <facsimile xml:id="image_1"><graphic url="No-MM_N3721-01.jpg"/></facsimile>
+ <text>
+  <body>
+   <div xml:id="transcr_1">
+    <p><del rend="overwritten">1900</del><add place="inline">1899</add> Pigen Galleriet
+     <lb/>Italien Paris 2 Måneder
+     <lb/>Sommeren &#x2013; Høsten
+     <lb/>Gudbrandsdalen <unclear reason="writing">Våren</unclear>
+     <lb/>1900 Pigen Italien <del rend="overwritten"><unclear>Paris</unclear></del><add place="inline">Sommeren</add>
+     <lb/><unclear reason="writing">hjemme</unclear> <unclear reason="writing">Våren</unclear> <add place="supralinear">Vinter</add> Nordstrand
+     <lb/>Aasgårdstrand Sommer
+     <lb/>Udstilling &#x2013; Berlin Høsten
+     <lb/>1901 Berlin Vinteren
+     <lb/>1900 Pigen Italien
+     <lb/>Aasgårdstran Paris
+     <lb/>1901 Gudbrandsdalen
+     <lb/>Italien <unclear reason="writing">Våren</unclear> <gap reason="writing"/>
+     <lb/><del rend="overwritten">Aasgårdstrand</del><add place="inline">Nordstrand</add>
+     <lb/>1902 <del rend="overwritten">Udstilling</del><add place="inline"><unclear reason="writing">Våren</unclear> Nordstrand</add>
+     <lb/>sommeren &#x3003; &#x3003;</p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../tei_xinclude.rng"?>
+<?xml-stylesheet type="text/xsl" href="file:/F:/Prosjekter/Prosjekter, interne/71200010 Munchs tekster/Transkripsjoner/eMunch_view_corpus.xsl"?>
+<teiCorpus version="5.2" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>MM N 3715. Brevutkast på MM K 2105</title>
+            </titleStmt>
+            <publicationStmt><p/></publicationStmt>
+            <sourceDesc><bibl xml:id="No-MM_N3715"/></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="no"/>       
+            </langUsage>
+            <handNotes>
+                <handNote xml:id="pe627" medium="pencil"></handNote>
+            </handNotes>
+        </profileDesc>
+        <revisionDesc>
+            <change xml:id="HB" who="#HB" when="2018-05-07">Kodet samlefil og enkeltsidefiler i Oxygen.</change>
+            <change xml:id="IHS" who="#IHS" when="2018-08-20">Sett på koding.</change>
+        </revisionDesc>
+    </teiHeader>
+    <include xmlns="http://www.w3.org/2001/XInclude" href="No-MM_N3715-01.xml" xpointer="No-MM_N3715-01">
+        <fallback>FIXME: MISSING XINCLUDE CONTENT</fallback>
+    </include>
+</teiCorpus>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../tei_xinclude.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.2" xml:id="No-MM_N3726-01">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>No-MM_N3726-01.jpg</title>
+   </titleStmt>
+   <publicationStmt><p/></publicationStmt>
+   <sourceDesc><bibl/></sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <facsimile xml:id="image_1"><graphic url="No-MM_N3726-01.jpg"/></facsimile>
+ <text>
+  <body>
+   <div xml:id="transcr_1">
+    <table n="listOfWorks"><row><cell><handShift new="i10"/>1</cell><cell>Exempl.</cell><cell>10 L</cell><cell/> <cell/> <cell><handShift new="pe627"/><rs type="portrait" key="pe300">Fru Linde</rs> (?)</cell></row>
+     <row><cell><handShift new="i10"/>1</cell><cell>&#x3003;</cell><cell>158 L</cell><cell>&#x2013;</cell><cell/> <cell><handShift new="pe627"/><rs type="portrait" key="pe301">Dr Linde</rs> (?)</cell></row>
+     <row><cell><handShift new="i10"/>1</cell><cell>&#x3003;</cell><cell>191 L</cell><cell>&#x2013;</cell><cell/> <cell><handShift new="pe627"/><rs type="portrait" key="pe236">Hans Jæger</rs></cell></row>
+     <row><cell><handShift new="i10"/>1</cell><cell>&#x3003;</cell><cell>193 L</cell><cell>&#x2013;</cell><cell/> <cell><handShift new="pe627"/><rs type="portrait" key="pe316">Mallarme</rs> Tidligt Paris 400 <gap/> 100</cell></row>
+     <row><cell><handShift new="i10"/>1</cell><cell>&#x3003;</cell><cell>202 L</cell><cell>&#x2013;</cell><cell>&#x2013;</cell><cell><handShift new="pe627"/><del>Van de Veldes Børn</del><add><title>Dr Lindes Hus</title></add> <del>Kjæld</del> 500</cell></row> 
+     <row><cell><handShift new="i10"/>1</cell><cell>&#x3003;</cell><cell>200 L</cell><cell>&#x2013;</cell><cell>&#x2013;</cell><cell><handShift new="pe627"/><title><persName key="pe464">Van de Velde</persName>s Børn</title> 600 K Kjæld</cell></row>
+     <row><cell><handShift new="i10"/>1</cell><cell>&#x3003;</cell><cell>222 L</cell><cell/> <cell>&#x2013;</cell><cell><handShift new="pe627"/><title>På Bænken</title> Tidl. Tryk 250 Sen 200</cell></row>
+     <row><cell><handShift new="i10"/>1</cell><cell>&#x3003;</cell><cell>223 L</cell><cell/> <cell>&#x2013;</cell><cell><handShift new="pe627"/><title><orgName key="i956">Vestminster abbæi</orgName></title> 250 Tidl.</cell></row>
+     <row><cell><handShift new="i10"/>1</cell><cell>&#x3003;</cell><cell>239 L</cell><cell/> <cell>&#x2013;</cell><cell><handShift new="pe627"/><title><unclear>Beskuelse</unclear></title> <unclear>Sjeldn</unclear> 500 Kr</cell></row>
+     <row><cell><handShift new="i10"/>1</cell><cell>&#x3003;</cell><cell>247 T</cell><cell/> <cell>&#x2013;</cell><cell><handShift new="pe627"/><title>Panik</title> 150 Kr</cell></row>
+     <row><cell><handShift new="i10"/>1</cell><cell>&#x3003;</cell><cell>249 T</cell><cell/> <cell>&#x2013;</cell><cell><handShift new="pe627"/><rs type="portrait" key="pe730">Rogstad</rs> 150 Kr</cell></row>
+     <row><cell><handShift new="i10"/>1</cell><cell>&#x3003;</cell><cell>257 R</cell><cell/> <cell>&#x2013;</cell><cell><handShift new="pe627"/><rs type="pe140">Fru Gierloff</rs> 200 Kr<add><unclear>Sjeldent</unclear> 400</add></cell></row>
+     <row><cell><handShift new="i10"/>1</cell><cell>&#x3003;</cell><cell>260 R</cell><cell/> <cell>&#x2013;</cell><cell><handShift new="pe627"/><del>Angs</del> <title>Skrig</title> &#x2013; <add>Tidl. 500 Kr</add> 1000 Kr</cell></row>
+     <row><cell><handShift new="i10"/>1</cell><cell>&#x3003;</cell><cell>275 R</cell><cell>O</cell><cell>&#x2013;</cell><cell><handShift new="pe627"/><title>Hest</title> &#x2013; 100 Kr</cell></row>
+     <row><cell><handShift new="i10"/>1</cell><cell>&#x3003;</cell><cell>276 R</cell><cell/> <cell>&#x2013;</cell><cell><handShift new="pe627"/><title>Forførelse</title> R. &#x2013; 100 a 150 Kr</cell></row>
+     <row><cell><handShift new="i10"/>1</cell><cell>&#x3003;</cell><cell>278L</cell><cell/> <cell>&#x2013;</cell><cell><handShift new="pe627"/><rs type="portrait" key="pe369">Nørregaard</rs> og frue &#x2013; 100 &#x2013; 150 &#x2013; &#x2013; 200</cell></row>
+     <row><cell><handShift new="i10"/>1</cell><cell>&#x3003;</cell><cell>291 L</cell><cell/> <cell>&#x2013;</cell><cell><handShift new="pe627"/><title><unclear>Sindsvage</unclear></title> &#x2013; 100 &#x2013; (Tidl. 250)</cell></row>
+     <row><cell><handShift new="i10"/>1</cell><cell>&#x3003;</cell><cell>294 R</cell><cell>O</cell><cell>&#x2013;</cell><cell><handShift new="pe627"/><title>Gut, Pige, Hane</title> 100 (Tidl. 250)</cell></row>
+     <row><cell><handShift new="i10"/>1</cell><cell>&#x3003;</cell><cell>304 L</cell><cell/> <cell>&#x2013;</cell><cell><handShift new="pe627"/><title>Påa Broen</title> 200 (250)</cell></row>
+     <row><cell><handShift new="i10"/>1</cell><cell>&#x3003;</cell><cell>301 T</cell><cell/> <cell>&#x2013;</cell><cell><handShift new="pe627"/><title>Badende Mænd</title> 300 Kr</cell></row></table>   </div>
+  </body>
+ </text>
+</TEI>

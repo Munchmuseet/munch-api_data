@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../tei_xinclude.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.2" xml:id="No-MM_N3724-02">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>No-MM_N3724-02.jpg</title>
+   </titleStmt>
+   <publicationStmt><p/></publicationStmt>
+   <sourceDesc><bibl/></sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <facsimile xml:id="image_2"><graphic url="No-MM_N3724-02.jpg"/></facsimile>
+ <text>
+  <body>
+   <div xml:id="transcr_2">
+    <p>Ich habe schon daran
+     <lb/>gedacht nach <placeName key="pl104">Frankreich</placeName>
+     <lb/>zu gehen um Ruhe zu
+     <lb/>kriegen &#x2013; Ich musz genau
+     <lb/>wissen wie meine Status
+     <lb/>ist ins Ordnung wegen &#x2013;</p>
+    <p>Ich bitte mir das Geld
+     <lb/>fur das Bild 109 nur herher
+     <lb/>zu schiecken &#x2013; Ich habe es
+     <lb/>so billig verkauft was Sie
+     <lb/>wissen nur das Geld kontant
+     <lb/>zu erhalten &#x2013; Es is wichtig
+     <lb/>für Ausfuhrung verschiedenen
+     <lb/>Arbeiten &#x2013; Ich bitte Ihnen
+     <lb/>mir zu mittheilen wann die
+     <lb/>Ausstellung hier statfinden werden
+     <lb/>und whelch Gemalden &#x2013;</p><closer rend="noLineBreakBefore"><salute rend="noLineBreakBefore">Hochachtend</salute> <signed rend="noLineBreakBefore"><persName key="pe627">E Munch</persName></signed></closer>
+   </div>
+  </body>
+ </text>
+</TEI>

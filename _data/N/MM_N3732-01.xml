@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../tei_xinclude.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.2" xml:id="No-MM_N3732-01">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>No-MM_N3732-01.jpg</title>
+   </titleStmt>
+   <publicationStmt><p/></publicationStmt>
+   <sourceDesc><bibl/></sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <facsimile xml:id="image_1"><graphic url="No-MM_N3732-01.jpg"/></facsimile>
+ <text>
+  <body>
+   <div xml:id="transcr_1">
+    <p><persName key="pe1948">Stephan George</persName>
+     <lb/><persName key="pe1949">Max<unclear reason="writing">imin</unclear></persName>
+     <lb/><persName key="pe1950">Meierink</persName>
+     <lb/>Go<gap reason="writing"/>k Seeschlacht</p><!-- Seeschlacht, skuespill av Reinhard Goering (inspirert av Stephan George)? -->
+   </div>
+  </body>
+ </text>
+</TEI>

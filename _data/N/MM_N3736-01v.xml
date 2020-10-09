@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../tei_xinclude.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.2" xml:id="No-MM_N3736-01v">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>No-MM_N3736-01v.jpg</title>
+   </titleStmt>
+   <publicationStmt><p/></publicationStmt>
+   <sourceDesc><bibl/></sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <facsimile xml:id="image_2"><graphic url="No-MM_N3736-01v.jpg"/></facsimile>
+ <text>
+  <body>
+   <div xml:id="transcr_2">
+    <p rend="noIndent">tog hun dette så roligt ba farvel og
+     <lb/>kysset oss alle og tok hilsen med
+     <lb/>til sin mamma akkurat som til
+     <lb/>en reise &#x2013; Så la hun sine hænder
+     <lb/>sammen og så &#x00AB;Fader i dine hender
+     <lb/>anbefaler jeg min ånd, min sjæl er
+     <lb/>frelst&#x00BB; Så døde hun stille og rolig
+     <lb/>næsten umærkeligt</p>
+    <p><handShift new="pe348"/>Edvards avskrift av bladet.
+     <lb/>1943.</p>
+    <note resp="editor">Notat fra <persName key="pe348">Inger Munch</persName> vedlagt avskriften:
+     <lb/>En dag i en av krigsårene var jeg i selskap med avdøde fru Sara Kock, en av lederne av &#x00AB;Kristelig forening for unge kvinner&#x00BB;. Jeg fortalte henne om min tantes optegnelse av Sofies død. Hun syntes det var så rørende, at hun bad om å få offentliggjort det i foreningens blad. Bladet kom ut, jeg turde ikke sende det til min bror, jeg var bange for han ikke vilde like at jeg fortalte om det. Frk. Berg holdt bladet. Det lå på bordet, og min bror fikk øie på det. Han tok det og skrev det av og la det sammen med vår mors siste hilsen. &#x2013;</note>
+   </div>
+  </body>
+ </text>
+</TEI>

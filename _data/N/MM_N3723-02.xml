@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../tei_xinclude.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.2" xml:id="No-MM_N3723-02">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>No-MM_N3723-02.jpg</title>
+   </titleStmt>
+   <publicationStmt><p/></publicationStmt>
+   <sourceDesc><bibl/></sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <facsimile xml:id="image_2"><graphic url="No-MM_N3723-02.jpg"/></facsimile>
+ <text>
+  <body>
+   <div xml:id="transcr_2">
+    <p rend="noIndent">2 Kupferplatten und
+     <lb/>cirka 20 Malereien
+     <lb/>los um einander in
+     <lb/>eine elende Zustand
+     <lb/>&#x2013; Viele Sachen <del rend="overstrike">sahen</del><add place="inline">waren</add>
+     <lb/>molestiert &#x2013;</p>
+    <p><del rend="overwritten">Ich</del><add place="inline">Die</add> zeigt bin naher
+     <lb/>Unterzuchung das die
+     <lb/>grosse Offnung whelche
+     <lb/>geht durch die ganze
+     <lb/>Kiste <unclear reason="writing">von</unclear> <placeName key="pl20">Kristiania</placeName>
+     <lb/>ab <del rend="overstrike">zu</del> so gewesen ist
+     <lb/>&#x2013; Die Kiste ist auf diese 
+     <lb/>Weise fabrikiert und
+     <lb/>ist nie <del rend="overstrike">zu</del> ein Gemalde
+     <lb/>Kiste gewesen &#x2013; Die  
+     <lb/>Untersuchung zeigt auch
+     <lb/>dasz diese Offnung nie zuge-</p>
+   </div>
+  </body>
+ </text>
+</TEI>

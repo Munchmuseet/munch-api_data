@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI PUBLIC "-//TEI P5 MunchTEI//DTD TEI P5 Unified for Edvard Munch's Texts//EN" "file:/F:/Prosjekter/Prosjekter, interne/71200010 Munchs tekster/Transkripsjoner/MunchTEI.dtd" >
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0" xml:id="No-MM_N3701-01">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>No-MM_N3701-01.jpg</title>
+   </titleStmt>
+   
+   <publicationStmt>
+    <p></p>
+   </publicationStmt>
+   <sourceDesc>
+    <p>2704 x 4064</p>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   
+   
+   
+   <tagsDecl xml:id="imtAnnotationCategories"><rendition xml:id="transcription"><label>Contains the transcribed and TEI P5 encoded text of the objects</label><code rend="rectangle" lang="text/css">color: #ff0000</code></rendition><rendition xml:id="commentary"><label>Kommentarer</label><code rend="rectangle" lang="text/css">color: #00ff00</code></rendition><rendition xml:id="philologicalNotes"><label>Edisjonsfilologiske noter</label><code rend="rectangle" lang="text/css">color: #0000ff</code></rendition></tagsDecl><appInfo>
+    <application ident="ImageMarkupTool01" version="1.8.2.2" notAfter="2018-04-23T13:32:28">
+     <label>
+      Image Markup Tool</label><desc>
+       Tool for annotating images using TEI</desc><ref type="appURI" target="http://hcmc.uvic.ca/~mholmes/image_markup/">
+       </ref><ptr target="#imtAnnotatedImage"></ptr><ptr target="#imtImageAnnotations"></ptr><ptr target="#imtAnnotationCategories"></ptr></application>
+    
+    
+   </appInfo></encodingDesc>
+ </teiHeader>
+ <facsimile xml:id="imtAnnotatedImage"><surface><graphic url="No-MM_N3701-01.jpg" width="2882px" height="4336px"></graphic><zone xml:id="imtArea_0" rendition="transcription" ulx="165" uly="194" lrx="2514" lry="4146" rend="visible"></zone></surface></facsimile>
+ <text>
+  <body>
+   <div xml:id="imtImageAnnotations"><div corresp="#imtArea_0" type="imtAnnotation"><head></head><div><list type="listOfWorks">
+    <item>Balstemning</item>
+    <item>Pariserrestaurant</item>
+    <item><del rend="overwritten">d</del>Den syge ved vinduet</item>
+    <item><hi rend="underlined">To som <del rend="overwritten">s</del>kys</hi>ser hinanden</item>
+    <item>! Høst</item>
+    <item><rs type="portrait" key="pe476">Wefring</rs></item>
+    <item>Tante ved veikanten</item>
+    <item>&#x2013; Portræt af Fader</item>
+    <item>&#x2013; Pedstefader &#x2013;</item>
+    <item><hi rend="underlined"><del rend="overwritten">F</del>Søndag</hi> i <placeName key="pl42">Aasgardst</placeName> &#x2013;</item>
+    <item><hi rend="underlined">Foss</hi></item>
+    <item>Hammer</item>
+    <item>Furuskog</item>
+    <item>Aasgardstrand</item>
+   </list></div></div></div>
+  </body>
+ </text>
+</TEI>

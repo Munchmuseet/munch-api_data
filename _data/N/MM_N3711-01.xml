@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../tei_xinclude.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.2" xml:id="No-MM_N3711-01">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>No-MM_N3711-01.jpg</title>
+   </titleStmt>
+   <publicationStmt><p/></publicationStmt>
+   <sourceDesc><bibl/></sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <facsimile xml:id="image_1"><graphic url="No-MM_N3711-01.jpg"/></facsimile>
+ <text>
+  <body>
+   <div xml:id="transcr_1">
+    <div><p>Uhrmager</p></div>
+    <div><p><persName key="pe3012">Georg Ek</persName>
+     <lb/><date when="1924-01-10">10-1-24</date></p>
+     <p>Efter Brandret og
+      <lb/><unclear reason="writing">Lubek</unclear> Karls bade<gap reason="writing"/></p></div>
+   </div>
+  </body>
+ </text>
+</TEI>

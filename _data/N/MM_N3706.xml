@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../tei_xinclude.rng"?>
+<?xml-stylesheet type="text/xsl" href="file:/F:/Prosjekter/Prosjekter, interne/71200010 Munchs tekster/Transkripsjoner/eMunch_view_corpus.xsl"?>
+<teiCorpus version="5.2" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>MM N 3706. Brev</title>
+            </titleStmt>
+            <publicationStmt><p/></publicationStmt>
+            <sourceDesc><bibl xml:id="No-MM_N3706"/></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="no"/>       
+            </langUsage>
+            <handNotes>
+                <handNote xml:id="pe1199" corresp="pe627" medium="printed" scope="major"></handNote>
+                <handNote corresp="pe1199" medium="pen_black" scope="minor"></handNote>
+            </handNotes>
+        </profileDesc>
+        <revisionDesc>
+            <change xml:id="IHS" who="#IHS" when="2018-01-12">Kodet samlefil og enkeltsidefiler i Oxygen.</change>
+        </revisionDesc>
+    </teiHeader>
+    <include xmlns="http://www.w3.org/2001/XInclude" href="No-MM_N3706-01.xml" xpointer="No-MM_N3706-01">
+        <fallback>FIXME: MISSING XINCLUDE CONTENT</fallback>
+    </include>
+    <include xmlns="http://www.w3.org/2001/XInclude" href="No-MM_N3706-02.xml" xpointer="No-MM_N3706-02">
+        <fallback>FIXME: MISSING XINCLUDE CONTENT</fallback>
+    </include>
+</teiCorpus>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI PUBLIC "-//TEI P5 MunchTEI//DTD TEI P5 Unified for Edvard Munch's Texts//EN" "file:/F:/Prosjekter/Prosjekter, interne/71200010 Munchs tekster/Transkripsjoner/MunchTEI.dtd" >
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0" xml:id="No-MM_N3701-02">
+<teiHeader>
+ <fileDesc>
+<titleStmt>
+<title>No-MM_N3701-02.jpg</title>
+</titleStmt>
+
+<publicationStmt>
+<p></p>
+</publicationStmt>
+<sourceDesc>
+<p>2882 x 4336</p>
+</sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+
+
+ 
+  <tagsDecl xml:id="imtAnnotationCategories"><rendition xml:id="transcription"><label>Contains the transcribed and TEI P5 encoded text of the objects</label><code rend="rectangle" lang="text/css">color: #ff0000</code></rendition><rendition xml:id="commentary"><label>Kommentarer</label><code rend="rectangle" lang="text/css">color: #00ff00</code></rendition><rendition xml:id="philologicalNotes"><label>Edisjonsfilologiske noter</label><code rend="rectangle" lang="text/css">color: #0000ff</code></rendition></tagsDecl><appInfo>
+     <application ident="ImageMarkupTool01" version="1.8.2.2" notAfter="2018-04-23T11:26:09">
+     <label>
+     Image Markup Tool</label><desc>
+     Tool for annotating images using TEI</desc><ref type="appURI" target="http://hcmc.uvic.ca/~mholmes/image_markup/">
+     </ref><ptr target="#imtAnnotatedImage"></ptr><ptr target="#imtImageAnnotations"></ptr><ptr target="#imtAnnotationCategories"></ptr></application>
+     
+     
+     </appInfo></encodingDesc>
+</teiHeader>
+ <facsimile xml:id="imtAnnotatedImage"><surface><graphic url="No-MM_N3701-02.jpg" width="2882px" height="4336px"></graphic><zone xml:id="imtArea_0" rendition="transcription" ulx="134" uly="182" lrx="2430" lry="4096" rend="visible"></zone></surface></facsimile>
+ <text>
+  <body>
+   <div xml:id="imtImageAnnotations"><div corresp="#imtArea_0" type="imtAnnotation"><head></head><div>
+    <list type="listOfWorks">
+     <item><persName key="pe606">Werenskjolds</persName> &#x2013;</item><!-- så vidt jeg har klart å se har ikke Munch portrettert Werenskiold noen gang. Det er derfor mulig at dette er et bilde Werenskiold eide, derav genitivs s-en. Dette kan også gjelde for andre, f.eks. Thaulow. Kodet om til persName i tråd med dette -->
+     <item><rs type="portrait" key="pe236">Hans Jæger</rs></item>
+     <item><rs type="portrait" key="pe181">Gunnar Heiberg</rs></item>
+     <item><hi rend="underlined"><persName key="pe890">Thaulows</persName> <gap reason="faint"/></hi></item>
+     <item><hi rend="underlined">Måneskin</hi>sbillede i <placeName key="pl70">Nizza</placeName></item>
+     <item>Pigen på Sengen</item>
+     <item><hi rend="underlined"><space dim="horizontal"/></hi> <hi rend="underlined">ved vinduet</hi></item>
+     <item><placeName key="pl108">Monte Carlo</placeName></item>
+     <item><placeName key="pl395">Liabroveien</placeName></item>
+     <item><rs type="portrait" key="pe366">Jappe</rs> ved Stranden</item>
+     <item><rs type="portrait" key="pe">Fru <unclear reason="writing">Klein</unclear></rs> ved Stranden</item>
+     <item>Bademand</item>
+     <item>Nizza i sol</item>
+     <item><placeName key="pl115"><hi rend="underlined">Promenade des</hi> <del rend="overwritten">a</del>Anglais</placeName></item>
+     <item><placeName key="pl149">Karl Johansgade</placeName> &#x2013;</item>
+     <item>Fra <placeName key="pl16">Paris</placeName></item>
+     <item><rs type="portrait" key="pe61">Frøken <unclear reason="writing">Buhre</unclear></rs></item>
+     <item><unclear reason="writing">B</unclear> <gap reason="writing"/></item>
+     <item><rs type="portrait" key="pe348">Inger</rs></item>
+     <item>To ved Stranden</item>
+    </list>
+   </div></div></div>
+  </body>
+ </text>
+</TEI>

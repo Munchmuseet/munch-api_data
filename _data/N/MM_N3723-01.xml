@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../tei_xinclude.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.2" xml:id="No-MM_N3723-01">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>No-MM_N3723-01.jpg</title>
+   </titleStmt>
+   <publicationStmt><p/></publicationStmt>
+   <sourceDesc><bibl/></sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <facsimile xml:id="image_1"><graphic url="No-MM_N3723-01.jpg"/></facsimile>
+ <text>
+  <body>
+   <div xml:id="transcr_1">
+    <p>Ich erkläre hierdurch</p>
+    <p>Sofort ich die Kiste
+     <lb/>erhalten habe &#x2013; habe ich
+     <lb/>Hr. <persName key="pe627">Edv. Munch</persName> geholen lassen
+     <lb/>um die Kiste ein Besichtigung
+     <lb/>zu nehmen &#x2013; Die Offnung
+     <lb/>zwischen die Seiteborden
+     <lb/>war <del rend="overstrike">uber</del> 5&#x2013;6 cm breit &#x2013;</p>
+    <p>Man konnte ein Arm
+     <lb/>ganz hineinsticken
+     <lb/>und ausnehmen was
+     <lb/>man wollte &#x2013; Munch
+     <lb/>hat eine Holzplatte <del rend="overstrike"><unclear reason="writing">des</unclear></del>
+     <lb/>mit Leichtigkeit ausgenommen</p>
+    <p>Bei die Offnung die
+     <lb/>Kiste lagen cirka 30
+     <lb/>ausgeschnittene Holzplatten</p>
+   </div>
+  </body>
+ </text>
+</TEI>

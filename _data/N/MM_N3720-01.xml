@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../tei_xinclude.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.2" xml:id="No-MM_N3720-01">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>No-MM_N3720-01.jpg</title>
+   </titleStmt>
+   <publicationStmt><p/></publicationStmt>
+   <sourceDesc><bibl/></sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <facsimile xml:id="image_1"><graphic url="No-MM_N3720-01.jpg"/></facsimile>
+ <text>
+  <body>
+    <div type="imtAnnotation">
+     <head>Postkort</head>
+     <p/>
+    </div>
+    <div type="imtAnnotation">
+     <head>ForSearch</head>
+     <p>
+      <placeName key="pl44"/>
+     </p>
+    </div>
+  </body>
+ </text>
+</TEI>
